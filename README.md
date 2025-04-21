@@ -62,4 +62,4 @@ Comprometido con la comunidad de desarrollo, participo activamente en proyectos 
 
 ---
 
-⭐️ De [Jonathan Villegas](https://github.com/TU_USERNAME)
+⭐️ De [Jonathan Villegas](https://github.com/terrster)
